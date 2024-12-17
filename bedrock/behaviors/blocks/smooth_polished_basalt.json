@@ -1,0 +1,30 @@
+{
+    "$credit": "Thanks to Legopitstop for creating this useful asset",
+    "format_version": "1.19.40",
+    "minecraft:block": {
+        "description": {
+            "identifier": "basaltblocks:smooth_polished_basalt",
+            "menu_category": {
+                "category": "construction",
+                "group": "itemGroup.search"
+            }
+        },
+        "components": {
+            "tag:stone": {},
+            "minecraft:loot": "loot_tables/basaltblocks/blocks/smooth_polished_basalt.json",
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 0.15
+            },
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 4.2
+            },
+            "minecraft:map_color": "#191919",
+            "minecraft:unit_cube": {},
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "minecraft:polished_basalt_side"
+                }
+            }
+        }
+    }
+}

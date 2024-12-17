@@ -1,0 +1,25 @@
+{
+    "format_version": "1.19.40",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "basaltblocks:smooth_polished_basalt_slab"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "basaltblocks:smooth_polished_basalt"
+            }
+        },
+        "result": [
+            {
+                "item": "basaltblocks:smooth_polished_basalt_slab",
+                "count": 6
+            }
+        ]
+    }
+}

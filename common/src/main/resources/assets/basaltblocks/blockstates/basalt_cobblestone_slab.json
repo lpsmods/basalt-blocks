@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "basaltblocks:block/cobbled_basalt_slab"
+    },
+    "type=double": {
+      "model": "basaltblocks:block/cobbled_basalt"
+    },
+    "type=top": {
+      "model": "basaltblocks:block/cobbled_basalt_slab_top"
+    }
+  }
+}
