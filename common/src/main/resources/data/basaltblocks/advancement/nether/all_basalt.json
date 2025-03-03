@@ -23,7 +23,7 @@
           {"items":["minecraft:basalt"]},
           {"items":["minecraft:polished_basalt"]},
           {"items":["minecraft:smooth_basalt"]},
-          {"items":["basaltblocks:basalt_cobblestone"]},
+          {"items":["basaltblocks:cobbled_basalt"]},
           {"items":["basaltblocks:polished_basalt_bricks"]}
         ]
       }

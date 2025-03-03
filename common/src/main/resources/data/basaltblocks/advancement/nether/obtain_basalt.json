@@ -25,7 +25,7 @@
               "minecraft:basalt",
               "minecraft:polished_basalt",
               "minecraft:smooth_basalt",
-              "basaltblocks:basalt_cobblestone",
+              "basaltblocks:cobbled_basalt",
               "basaltblocks:polished_basalt_bricks"
             ]
           }

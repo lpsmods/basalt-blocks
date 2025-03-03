@@ -12,7 +12,7 @@
               "conditions": [
                 {
                   "condition": "minecraft:block_state_property",
-                  "block": "basaltblocks:basalt_cobblestone_slab",
+                  "block": "basaltblocks:cobbled_basalt_slab",
                   "properties": {
                     "type": "double"
                   }
@@ -24,7 +24,7 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "basaltblocks:basalt_cobblestone_slab"
+          "name": "basaltblocks:cobbled_basalt_slab"
         }
       ]
     }

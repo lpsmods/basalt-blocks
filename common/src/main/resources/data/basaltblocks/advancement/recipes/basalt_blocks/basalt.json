@@ -11,7 +11,7 @@
       "conditions": {
         "items": [
           {
-            "item": "basaltblocks:basalt_cobblestone"
+            "item": "basaltblocks:cobbled_basalt"
           }
         ]
       }

@@ -12,18 +12,25 @@ displayURL="https://lpsmods.dev/"
 logoFile="assets/${mod_id}/banner.png"
 credits="${credits}" 
 authors = "${mod_author}" 
-description = '''${description}''' 
-[[mixins]]
-config = "${mod_id}.mixins.json"
+description = '''${description}'''
+
 [[dependencies.${mod_id}]] 
 modId = "neoforge" 
 type="required" 
 versionRange = "[${neoforge_version},)" 
 ordering = "NONE" 
-side = "BOTH" 
+side = "BOTH"
+
 [[dependencies.${mod_id}]]
 modId = "minecraft"
 type="required" 
 versionRange = "${minecraft_version_range}"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.${mod_id}]]
+modId = "framework"
+type="required"
+versionRange = "[${framework_version},)"
 ordering = "NONE"
 side = "BOTH"

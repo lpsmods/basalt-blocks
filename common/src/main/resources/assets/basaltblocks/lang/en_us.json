@@ -1,5 +1,5 @@
 {
-    "itemGroup.basaltBlocks": "Basalt Blocks",
+    "itemGroup.basaltblocks": "Basalt Blocks",
 
     "advancements.nether.obtain_basalt.title": "This isn't salt?",
     "advancements.nether.obtain_basalt.description": "Obtain a basalt block.",
@@ -44,11 +44,11 @@
     "block.basaltblocks.polished_basalt_brick_door": "Polished Basalt Brick Door",
     "block.basaltblocks.polished_basalt_brick_trapdoor": "Polished Basalt Brick Trapdoor",
 
-    "block.basaltblocks.basalt_cobblestone": "Cobbled Basalt Bricks",
-    "block.basaltblocks.basalt_cobblestone_slab": "Cobbled Basalt Slab",
-    "block.basaltblocks.basalt_cobblestone_stairs": "Cobbled Basalt Stairs",
-    "block.basaltblocks.basalt_cobblestone_wall": "Cobbled Basalt Wall",
-    "block.basaltblocks.basalt_cobblestone_button": "Cobbled Basalt Button",
-    "block.basaltblocks.basalt_cobblestone_pressure_plate": "Cobbled Basalt Pressure Plate"
+    "block.basaltblocks.cobbled_basalt": "Cobbled Basalt",
+    "block.basaltblocks.cobbled_basalt_slab": "Cobbled Basalt Slab",
+    "block.basaltblocks.cobbled_basalt_stairs": "Cobbled Basalt Stairs",
+    "block.basaltblocks.cobbled_basalt_wall": "Cobbled Basalt Wall",
+    "block.basaltblocks.cobbled_basalt_button": "Cobbled Basalt Button",
+    "block.basaltblocks.cobbled_basalt_pressure_plate": "Cobbled Basalt Pressure Plate"
 
 }

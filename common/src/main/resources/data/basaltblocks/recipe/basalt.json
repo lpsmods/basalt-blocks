@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "basaltblocks:basalt_cobblestone"
+    "item": "basaltblocks:cobbled_basalt"
   },
   "result": {
     "id": "minecraft:basalt"

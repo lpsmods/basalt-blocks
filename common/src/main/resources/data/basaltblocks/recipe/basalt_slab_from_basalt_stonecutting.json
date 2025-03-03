@@ -3,6 +3,5 @@
   "ingredient": {
     "item": "minecraft:basalt"
   },
-  "result": {"id":"basaltblocks:basalt_slab"},
-  "count": 2
+  "result": {"id":"basaltblocks:basalt_slab", "count": 2}
 }

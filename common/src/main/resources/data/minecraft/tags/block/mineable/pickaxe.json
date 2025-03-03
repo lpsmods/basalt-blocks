@@ -26,11 +26,11 @@
     "basaltblocks:polished_basalt_brick_wall",
     "basaltblocks:polished_basalt_brick_button",
     "basaltblocks:polished_basalt_brick_pressure_plate",
-    "basaltblocks:basalt_cobblestone",
-    "basaltblocks:basalt_cobblestone_slab",
-    "basaltblocks:basalt_cobblestone_stairs",
-    "basaltblocks:basalt_cobblestone_wall",
-    "basaltblocks:basalt_cobblestone_button",
-    "basaltblocks:basalt_cobblestone_pressure_plate"
+    "basaltblocks:cobbled_basalt",
+    "basaltblocks:cobbled_basalt_slab",
+    "basaltblocks:cobbled_basalt_stairs",
+    "basaltblocks:cobbled_basalt_wall",
+    "basaltblocks:cobbled_basalt_button",
+    "basaltblocks:cobbled_basalt_pressure_plate"
   ]
 }

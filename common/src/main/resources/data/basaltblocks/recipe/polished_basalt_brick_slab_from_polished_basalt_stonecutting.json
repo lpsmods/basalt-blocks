@@ -3,6 +3,5 @@
   "ingredient": {
     "item": "minecraft:polished_basalt"
   },
-  "result": {"id":"basaltblocks:polished_basalt_brick_slab"},
-  "count": 2
+  "result": {"id":"basaltblocks:polished_basalt_brick_slab", "count": 2}
 }

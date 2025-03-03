@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "basaltblocks:basalt_cobblestone_button"
+          "name": "basaltblocks:cobbled_basalt_stairs"
         }
       ],
       "conditions": [

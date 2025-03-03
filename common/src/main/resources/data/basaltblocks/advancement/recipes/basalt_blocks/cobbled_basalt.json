@@ -2,16 +2,16 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "basaltblocks:basalt_cobblestone_stairs"
+      "basaltblocks:cobbled_basalt"
     ]
   },
   "criteria": {
-    "has_basalt_cobblestone": {
+    "has_basalt": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "basaltblocks:basalt_cobblestone"
+            "item": "minecraft:basalt"
           }
         ]
       }
@@ -19,13 +19,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "basaltblocks:basalt_cobblestone_stairs"
+        "recipe": "basaltblocks:cobbled_basalt"
       }
     }
   },
   "requirements": [
     [
-      "has_basalt_cobblestone",
+      "has_basalt",
       "has_the_recipe"
     ]
   ]

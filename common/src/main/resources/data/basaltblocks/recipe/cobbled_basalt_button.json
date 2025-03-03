@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "basaltblocks:basalt_cobblestone"
+      "item": "basaltblocks:cobbled_basalt"
     }
   ],
   "result": {
-    "id": "basaltblocks:basalt_cobblestone_button"
+    "id": "basaltblocks:cobbled_basalt_button"
   }
 }
