@@ -1,5 +1,10 @@
 # Basalt Blocks
 
+![Curseforge](https://img.shields.io/curseforge/dt/400234?logo=curseforge&label=&suffix=%20&style=for-the-badge&color=242629&labelColor=e04e14&logoColor=1c1c1c)
+![Modrinth](https://img.shields.io/modrinth/dt/basalt-blocks?logo=modrinth&label=&suffix=%20&style=for-the-badge&color=242629&labelColor=5ca424&logoColor=1c1c1c)
+![Version](https://img.shields.io/curseforge/v/400234?style=for-the-badge)
+![Game Versions](https://img.shields.io/curseforge/game-versions/400234?style=for-the-badge)
+
 More Basalt.
 
 ## Mod Data
@@ -9,7 +14,7 @@ More Basalt.
 | namespace | `basaltblocks`  |
 | slug      | `basalt-blocks` |
 
-## Editions
+## Loaders
 
 - Bedrock
 - Data Pack
