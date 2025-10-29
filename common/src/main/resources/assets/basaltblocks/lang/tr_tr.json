@@ -1,0 +1,53 @@
+{
+    "itemGroup.basaltblocks": "Bazalt Blokları",
+
+    "advancements.nether.obtain_basalt.title": "Bu Tuz Değil mi?",
+    "advancements.nether.obtain_basalt.description": "Bir bazalt bloğu elde et.",
+
+    "advancements.nether.gather_all_basalt.title": "Bazalt Şart!",
+    "advancements.nether.gather_all_basalt.description": "Tüm bazalt bloklarını topla.",
+
+    "block.basaltblocks.basalt_slab": "Bazalt Basamak",
+    "block.basaltblocks.basalt_stairs": "Bazalt Merdiven",
+    "block.basaltblocks.basalt_wall": "Bazalt Duvar",
+    "block.basaltblocks.basalt_button": "Bazalt Düğme",
+    "block.basaltblocks.basalt_pressure_plate": "Bazalt Basınç Plakası",
+
+    "block.basaltblocks.smooth_basalt_slab": "Pürüzsüz Bazalt Basamak",
+    "block.basaltblocks.smooth_basalt_stairs": "Pürüzsüz Bazalt Merdiven",
+    "block.basaltblocks.smooth_basalt_wall": "Pürüzsüz Bazalt Duvar",
+    "block.basaltblocks.smooth_basalt_button": "Pürüzsüz Bazalt Düğme",
+    "block.basaltblocks.smooth_basalt_pressure_plate": "Pürüzsüz Bazalt Basınç Plakası",
+
+    "block.basaltblocks.polished_basalt_slab": "İşlenmiş Bazalt Basamak",
+    "block.basaltblocks.polished_basalt_stairs": "İşlenmiş Bazalt Merdiven",
+    "block.basaltblocks.polished_basalt_wall": "İşlenmiş Bazalt Duvar",
+    "block.basaltblocks.chiseled_polished_basalt": "Yontulmuş İşlenmiş Bazalt",
+    "block.basaltblocks.polished_basalt_button": "İşlenmiş Bazalt Düğme",
+    "block.basaltblocks.polished_basalt_pressure_plate": "İşlenmiş Bazalt Basınç Plakası",
+
+    "block.basaltblocks.smooth_polished_basalt": "Pürüzsüz İşlenmiş Bazalt",
+    "block.basaltblocks.smooth_polished_basalt_slab": "Pürüzsüz İşlenmiş Bazalt Basamak",
+    "block.basaltblocks.smooth_polished_basalt_stairs": "Pürüzsüz İşlenmiş Bazalt Merdiven",
+    "block.basaltblocks.smooth_polished_basalt_wall": "Pürüzsüz İşlenmiş Bazalt Duvar",
+    "block.basaltblocks.smooth_polished_basalt_button": "Pürüzsüz İşlenmiş Bazalt Düğme",
+    "block.basaltblocks.smooth_polished_basalt_pressure_plate": "Pürüzsüz İşlenmiş Bazalt Basınç Plakası",
+
+    "block.basaltblocks.cracked_polished_basalt_bricks": "Çatlak İşlenmiş Bazalt Tuğlalar",
+    "block.basaltblocks.polished_basalt_bricks": "İşlenmiş Bazalt Tuğlalar",
+    "block.basaltblocks.polished_basalt_brick_slab": "İşlenmiş Bazalt Tuğla Basamak",
+    "block.basaltblocks.polished_basalt_brick_stairs": "İşlenmiş Bazalt Tuğla Merdiven",
+    "block.basaltblocks.polished_basalt_brick_wall": "İşlenmiş Bazalt Tuğla Duvar",
+    "block.basaltblocks.polished_basalt_brick_button": "İşlenmiş Bazalt Tuğla Düğme",
+    "block.basaltblocks.polished_basalt_brick_pressure_plate": "İşlenmiş Bazalt Tuğla Basınç Plakası",
+    "block.basaltblocks.polished_basalt_brick_pillar": "İşlenmiş Bazalt Tuğla Sütun",
+    "block.basaltblocks.polished_basalt_brick_door": "İşlenmiş Bazalt Tuğla Kapı",
+    "block.basaltblocks.polished_basalt_brick_trapdoor": "İşlenmiş Bazalt Tuğla Tuzak Kapısı",
+
+    "block.basaltblocks.cobbled_basalt": "Kırık Bazalt",
+    "block.basaltblocks.cobbled_basalt_slab": "Kırık Bazalt Basamak",
+    "block.basaltblocks.cobbled_basalt_stairs": "Kırık Bazalt Merdiven",
+    "block.basaltblocks.cobbled_basalt_wall": "Kırık Bazalt Duvar",
+    "block.basaltblocks.cobbled_basalt_button": "Kırık Bazalt Düğme",
+    "block.basaltblocks.cobbled_basalt_pressure_plate": "Kırık Bazalt Basınç Plakası"
+}
