@@ -1,0 +1,35 @@
+﻿pack.name=Basalt Blocks Add-On
+pack.description=§av1.4.0§r - More Basalt! §8Developer: §6Legopitstop
+
+item.lpsm_basaltblocks:polished_basalt_brick_door=Polished Basalt Brick Door\n§7Basalt Blocks Add-On§r
+
+tile.lpsm_basaltblocks:cobbled_basalt.name=Cobbled Basalt\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:cobbled_basalt_slab.name=Cobbled Basalt Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:cobbled_basalt_stairs.name=Cobbled Basalt Stairs\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:cobbled_basalt_vertical_slab.name=Cobbled Basalt Vertical Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:basalt_vertical_slab.name=Basalt Vertical Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:chiseled_polished_basalt.name=Chiseled Polished Basalt\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:chiseled_polished_basalt_slab.name=Chiseled Polished Basalt Slab§7(@basaltblocks)
+tile.lpsm_basaltblocks:chiseled_polished_basalt_stairs.name=Chiseled Polished Basalt Stairs§7(@basaltblocks)
+tile.lpsm_basaltblocks:chiseled_polished_basalt_vertical_slab.name=Chiseled Polished Basalt Vertical Slab§7(@basaltblocks)
+tile.lpsm_basaltblocks:cracked_polished_basalt_brick_slab.name=Cracked Polished Basalt Brick Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:cracked_polished_basalt_brick_stairs.name=Cracked Polished Basalt Brick Stairs\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:cracked_polished_basalt_brick_vertical_slab.name=Cracked Polished Basalt Brick Vertical Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:cracked_polished_basalt_bricks.name=Cracked Polished Basalt Bricks\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:polished_basalt_brick_pillar.name=Polished Basalt Brick Pillar\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:polished_basalt_brick_pillar_slab.name=Polished Basalt Brick Pillar Slab§7(@basaltblocks)
+tile.lpsm_basaltblocks:polished_basalt_brick_pillar_stairs.name=Polished Basalt Brick Pillar Stairs§7(@basaltblocks)
+tile.lpsm_basaltblocks:polished_basalt_brick_pillar_vertical_slab.name=Polished Basalt Brick Pillar Vertical Slab§7(@basaltblocks)
+tile.lpsm_basaltblocks:polished_basalt_brick_slab.name=Polished Basalt Brick Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:polished_basalt_brick_stairs.name=Polished Basalt Brick Stairs\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:polished_basalt_brick_vertical_slab.name=Polished Basalt Brick Vertical Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:polished_basalt_bricks.name=Polished Basalt Bricks\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:polished_basalt_vertical_slab.name=Polished Basalt Vertical Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:smooth_basalt.name=Smooth Basalt\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:smooth_basalt_vertical_slab.name=Smooth Basalt Vertical Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:smooth_polished_basalt.name=Smooth Polished Basalt\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:smooth_polished_basalt_slab.name=Smooth Polished Basalt Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:smooth_polished_basalt_stairs.name=Smooth Polished Basalt Stairs\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:smooth_polished_basalt_vertical_slab.name=Smooth Polished Basalt Vertical Slab\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:polished_basalt_brick_door_block.name=Polished Basalt Brick Door\n§7Basalt Blocks Add-On§r
+tile.lpsm_basaltblocks:polished_basalt_brick_trapdoor.name=Polished Basalt Brick Trapdoor\n§7Basalt Blocks Add-On§r

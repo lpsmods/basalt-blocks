@@ -1,0 +1,110 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_basaltblocks:polished_basalt_brick_door_block",
+      "states": {
+        "lps:open": [false, true],
+        "lps:half": ["bottom", "top"]
+      },
+      "traits": {
+        "minecraft:placement_direction": {
+          "enabled_states": ["minecraft:cardinal_direction"]
+        }
+      }
+    },
+    "components": {
+      "tag:stone": {},
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0.15
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 4.2
+      },
+      "minecraft:map_color": "#191919",
+      "minecraft:on_interact": {
+        "event": "lps:on_interact"
+      },
+      "minecraft:on_placed": {
+        "condition": "q.block_state('lps:half')=='bottom'",
+        "event": "lps:on_placed"
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('lps:half')=='top'",
+        "components": {
+          "minecraft:geometry": "geometry.template_door_up_left",
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_basaltblocks:polished_basalt_brick_door_top"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lps:half')=='bottom'",
+        "components": {
+          "minecraft:loot": "loot_tables/basaltblocks/blocks/polished_basalt_brick_door.json",
+          "minecraft:geometry": "geometry.template_door_down_left",
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_basaltblocks:polished_basalt_brick_door_bottom"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction')=='north'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [0, 90, 0]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction')=='south'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [0, -90, 0]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction')=='east'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [0, 0, 0]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction')=='west'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [0, 180, 0]
+          }
+        }
+      }
+    ],
+    "events": {
+      "lps:on_interact": {
+        "run_command": {
+          "target": "player",
+          "command": "playsound use.basalt @p"
+        },
+        "set_block_state": {
+          "lps:open": "!q.block_state('lps:open')"
+        }
+      },
+      "lps:on_placed": {
+        "run_command": {
+          "command": [
+            "execute unless block ~ ~1 ~ air run setblock ~ ~ ~ air destroy",
+            "execute if block ~ ~1 ~ air run setblock ~ ~1 ~ lpsm_basaltblocks:polished_basalt_brick_door_block[\"lps:half\"=\"top\"]"
+          ]
+        }
+      }
+    }
+  }
+}

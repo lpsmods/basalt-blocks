@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "lpsm_basaltblocks:chiseled_polished_basalt_stairs_from_chiseled_polished_basalt_stonecutting"
+    },
+    "tags": ["stonecutter"],
+    "ingredients": [
+      {
+        "item": "lpsm_basaltblocks:chiseled_polished_basalt"
+      }
+    ],
+    "result": [
+      {
+        "item": "lpsm_basaltblocks:chiseled_polished_basalt_stairs",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_basaltblocks:chiseled_polished_basalt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "2660f6c8-4130-4745-a6f9-75366d9c1c11",
+    "version": [2, 0, 0],
+    "min_engine_version": [1, 21, 90]
+  },
+  "metadata": {
+    "authors": ["Legopitstop"],
+    "license": "https://license.lpsmods.dev",
+    "url": "https://lpsmods.dev"
+  },
+  "modules": [
+    {
+      "description": "pack.description",
+      "type": "resources",
+      "uuid": "725ad88e-6cd7-437a-91d6-e8dd3ae652cd",
+      "version": [2, 0, 0]
+    }
+  ]
+}

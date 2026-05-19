@@ -1,0 +1,84 @@
+{
+  "format_version": "1.16.220",
+  "lpsm_basaltblocks:polished_basalt_brick_door": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:polished_basalt_brick_trapdoor": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:chiseled_polished_basalt_stairs": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:chiseled_polished_basalt_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:chiseled_polished_basalt_vertical_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:polished_basalt_brick_pillar_stairs": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:polished_basalt_brick_pillar_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:polished_basalt_brick_pillar_vertical_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:basalt_cobblestone": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:chiseled_polished_basalt": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:cracked_polished_basalt_bricks": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:polished_basalt_bricks": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:smooth_polished_basalt": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:polished_basalt_brick_pillar": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:basalt_vertical_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:basalt_cobblestone_vertical_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:cracked_polished_basalt_brick_vertical_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:polished_basalt_brick_vertical_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:smooth_polished_basalt_vertical_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:basalt_cobblestone_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:cracked_polished_basalt_brick_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:polished_basalt_brick_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:smooth_polished_basalt_slab": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:smooth_polished_basalt_stairs": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:polished_basalt_brick_stairs": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:cracked_polished_basalt_brick_stairs": {
+    "sound": "basalt"
+  },
+  "lpsm_basaltblocks:basalt_cobblestone_stairs": {
+    "sound": "basalt"
+  }
+}

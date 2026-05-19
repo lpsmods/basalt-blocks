@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "lpsm_basaltblocks:polished_basalt_brick_vertical_slab_from_polished_basalt_bricks_stonecutting"
+    },
+    "tags": ["stonecutter"],
+    "ingredients": [
+      {
+        "item": "lpsm_basaltblocks:polished_basalt_bricks"
+      }
+    ],
+    "result": [
+      {
+        "item": "lpsm_basaltblocks:polished_basalt_brick_slab",
+        "count": 2
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_basaltblocks:polished_basalt_bricks"
+      }
+    ]
+  }
+}

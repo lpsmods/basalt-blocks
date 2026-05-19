@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_basaltblocks:cracked_polished_basalt_bricks",
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.search"
+      }
+    },
+    "components": {
+      "tag:stone": {},
+      "minecraft:loot": "loot_tables/basaltblocks/blocks/cracked_polished_basalt_bricks.json",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0.15
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 4.2
+      },
+      "minecraft:map_color": "#191919",
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_basaltblocks:cracked_polished_basalt_bricks"
+        }
+      }
+    }
+  }
+}

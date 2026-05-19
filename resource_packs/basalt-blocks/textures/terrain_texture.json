@@ -1,0 +1,38 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "lpsm_basaltblocks:cobbled_basalt": {
+      "textures": "textures/blocks/cobbled_basalt"
+    },
+    "lpsm_basaltblocks:basalt_cobblestone": {
+      "textures": "textures/blocks/cobbled_basalt"
+    },
+    "lpsm_basaltblocks:chiseled_polished_basalt": {
+      "textures": "textures/blocks/chiseled_polished_basalt"
+    },
+    "lpsm_basaltblocks:cracked_polished_basalt_bricks": {
+      "textures": "textures/blocks/cracked_polished_basalt_bricks"
+    },
+    "lpsm_basaltblocks:polished_basalt_brick_pillar": {
+      "textures": "textures/blocks/polished_basalt_brick_pillar"
+    },
+    "lpsm_basaltblocks:polished_basalt_brick_pillar_top": {
+      "textures": "textures/blocks/polished_basalt_brick_pillar_top"
+    },
+    "lpsm_basaltblocks:polished_basalt_bricks": {
+      "textures": "textures/blocks/polished_basalt_bricks"
+    },
+    "lpsm_basaltblocks:polished_basalt_brick_door_bottom": {
+      "textures": "textures/blocks/polished_basalt_brick_door_bottom"
+    },
+    "lpsm_basaltblocks:polished_basalt_brick_door_top": {
+      "textures": "textures/blocks/polished_basalt_brick_door_top"
+    },
+    "lpsm_basaltblocks:polished_basalt_brick_trapdoor": {
+      "textures": "textures/blocks/polished_basalt_brick_trapdoor"
+    }
+  }
+}

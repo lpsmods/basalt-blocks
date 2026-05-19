@@ -1,0 +1,74 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_basaltblocks:polished_basalt_brick_pillar",
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.search"
+      },
+      "traits": {
+        "minecraft:placement_position": {
+          "enabled_states": ["minecraft:block_face"]
+        }
+      }
+    },
+    "components": {
+      "tag:stone": {},
+      "minecraft:loot": "loot_tables/basaltblocks/blocks/polished_basalt_brick_pillar.json",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0.15
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 4.2
+      },
+      "minecraft:map_color": "#191919",
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:material_instances": {
+        "up": {
+          "texture": "lpsm_basaltblocks:polished_basalt_brick_pillar_top"
+        },
+        "down": {
+          "texture": "lpsm_basaltblocks:polished_basalt_brick_pillar_top"
+        },
+        "*": {
+          "texture": "lpsm_basaltblocks:polished_basalt_brick_pillar"
+        }
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('minecraft:block_face')=='north'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [90, 0, 0]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:block_face')=='south'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [90, 180, 0]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:block_face')=='east'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [90, 90, 0]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:block_face')=='west'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [90, -90, 0]
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_basaltblocks:basalt_cobblestone_slab",
+      "states": {
+        "lpsm_basaltblocks:slab_block": ["bottom", "top", "double"]
+      }
+    },
+    "components": {
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_basaltblocks:basalt_cobblestone"
+        }
+      }
+    }
+  }
+}
